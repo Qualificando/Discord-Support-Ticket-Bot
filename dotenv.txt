@@ -1,0 +1,3 @@
+# Discord Bot Credentials
+TOKEN=seu_token_do_bot_aqui
+CLIENT_ID=id_do_seu_aplicativo_aqui
